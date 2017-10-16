@@ -28,11 +28,6 @@ var blogSchema = new mongoose.Schema({
 
 var Blog = mongoose.model("Blog", blogSchema);
 
-// Blog.create({
-//     title: "Test Blog",
-//     image: "https://images.pexels.com/photos/90604/pexels-photo-90604.png?w=1260&h=750&auto=compress&cs=tinysrgb",
-//     body: "Hello this is a Blog POST!",
-// });
 
 
 
