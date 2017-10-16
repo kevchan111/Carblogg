@@ -1,0 +1,49 @@
+i.icon {
+    font-size: 2em;
+    color: red;
+}
+
+.container.main {
+    margin-top: 7.0em ;
+    
+
+}
+
+#delete {
+    display: inline;
+}
+
+
+
+footer.footer {
+  
+    text-align: center;
+   padding-top: 30px;
+   color:white ;
+}
+
+.ui.huge.header {
+    
+    text-align: center ;
+    color: red;
+    text-shadow: 2px 2px 0.5px #000000
+    
+}
+
+.ui.inverted.menu {
+    border: 0px solid transparent;
+    background: black;
+}
+
+body {
+            background-image: url("https://images.discerningassets.com/image/upload/c_limit,h_1000,w_1000/c_fit,fl_relative,h_1.0,o_100,w_1.0/v1485814163/brooklyn_bridge_panorama_2_bw_spudfj.jpg") ;
+  			background-position: center center;
+			background-repeat:  no-repeat;
+			background-attachment: fixed;
+			background-size:  cover;
+			
+			
+    
+   
+}
+
