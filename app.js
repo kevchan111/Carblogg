@@ -6,8 +6,8 @@ var express        = require("express"),
         mongoose   = require("mongoose");
         
 // APP CONFIG:      
-mongoose.connect("mongodb://carblog:password@ds115124.mlab.com:15124/kevyelpcamp");
-// mongoose.connect("mongodb://localhost/restful_blog_app");
+// mongoose.connect("mongodb://carblog:password@ds115124.mlab.com:15124/kevyelpcamp");
+mongoose.connect("mongodb://localhost/restful_blog_app");
 
 app.set("view engine", "ejs");
 app.use(express.static("public"));
